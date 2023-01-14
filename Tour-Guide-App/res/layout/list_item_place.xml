@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/list_place"
+    android:padding="16dp"
+    android:background="#994d00">
+
+    <TextView
+        android:id="@+id/name_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Cow and Corset"
+        android:textStyle="bold"
+        android:padding="4dp"
+        android:textSize="16sp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/address_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5 Market Square"
+        android:padding="4dp"
+        android:textSize="16sp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/description_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This was, for a short while, the home of Albert the Luminous, the man who would eventually find the Temple of Light. His stay in Bowerstone coincided with a very dark period of Albert's life, one which led him to the brink of despair. When he left on a pilgrimage, few thought that he would become the famous man that he did."
+        android:padding="4dp"
+        android:justificationMode="inter_word"
+        android:textSize="16sp"
+        android:textColor="#000000"/>
+
+
+
+</LinearLayout>

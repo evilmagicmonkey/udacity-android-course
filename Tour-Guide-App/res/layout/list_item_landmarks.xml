@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/list_landmarks"
+    android:orientation="vertical"
+    android:background="#994d00">
+
+    <TextView
+        android:id="@+id/landmark_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Bower Lake"
+        android:textSize="32sp"
+        android:textColor="#000000"/>
+
+    <ImageView
+        android:id="@+id/landmark_image"
+        android:layout_width="360dp"
+        android:layout_height="360dp"
+        android:layout_gravity="center"
+        android:padding="2dp"
+        android:src="@drawable/bower_lake"
+        android:background="#000000"/>
+
+    <TextView
+        android:id="@+id/landmark_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="Rumoured to be the location of the old Heroes Guild, Bower Lake is a popular destination for travellers and locals. Located in the middle of Mirfield, Bower Lake is only a short walk away from the Gypsy Camp and is hard to miss on your way to Bowerstone"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:paddingBottom="16dp"
+        android:gravity="center"/>
+
+</LinearLayout>

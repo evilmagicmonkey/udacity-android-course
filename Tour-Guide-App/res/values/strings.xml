@@ -1,0 +1,305 @@
+<resources>
+    <string name="app_name">Bowerstone Tour Guide</string>
+    <string name="category_homes">Historical Homes</string>
+    <string name="category_market">Bowerstone Market</string>
+    <string name="category_graveyard">Graveyard Residents</string>
+    <string name="category_landmarks">Local Landmarks</string>
+
+    <string name="grave_name_1">Andrew the Liar</string>
+    <string name="grave_name_2">T Fung</string>
+    <string name="grave_name_3">J Epps \u0026 William Hodge</string>
+    <string name="grave_name_4">Damian Buzugbe</string>
+    <string name="grave_name_5">Time has erased whatever name was once written here</string>
+    <string name="grave_name_6">Pushover Pete</string>
+    <string name="grave_name_7">Louise Copley</string>
+    <string name="grave_name_8">Jonathan Shaw</string>
+    <string name="grave_name_9">Matt Hanlon</string>
+    <string name="grave_name_10">Ted Timmins</string>
+    <string name="grave_name_11">Rick Martinez</string>
+    <string name="grave_name_12">Ralph Needle</string>
+    <string name="grave_name_13">Charles Eduouard</string>
+    <string name="grave_name_14">Dan Thompson</string>
+    <string name="grave_name_15">P. Robinson</string>
+    <string name="grave_name_16">Avram Fearnshide</string>
+    <string name="grave_name_17">Fran Carucci</string>
+    <string name="grave_name_18">D \u0026 J</string>
+    <string name="grave_name_19">Iain Wright</string>
+    <string name="grave_name_20">One Sock Simpson</string>
+    <string name="grave_name_21">Richard Ham</string>
+    <string name="grave_name_22">Vinnie Yett</string>
+    <string name="grave_name_23">Farmer Dave</string>
+    <string name="grave_name_24">ANNDDDEEEYYYYY!!!</string>
+    <string name="grave_name_25">Patrick Merlin</string>
+    <string name="grave_name_26">Mr Horses</string>
+    <string name="grave_name_27">A. Carriage</string>
+    <string name="grave_name_28">Rich Bryant</string>
+    <string name="grave_name_29">Count Zamoyski</string>
+    <string name="grave_name_30">Moe Green</string>
+    <string name="grave_name_31">J Texier</string>
+    <string name="grave_name_32">L.T.R</string>
+    <string name="grave_name_33">Whitney Hills</string>
+    <string name="grave_name_34">Jake Gallier</string>
+    <string name="grave_name_35">Here lies the Golden Goose</string>
+    <string name="grave_name_36">J Eckersley</string>
+    <string name="grave_name_37">Look behind you!</string>
+    <string name="grave_name_38">Adam Jethro Langridge</string>
+    <string name="grave_name_39">Meredith Sock</string>
+    <string name="grave_name_40">Mark Backler</string>
+    <string name="grave_name_41">Here lies Chris Berry</string>
+    <string name="grave_name_42">“You can’t kill me, I’m invincible!”</string>
+    <string name="grave_name_43">You’ve travelled to the future and this is your grave</string>
+    <string name="grave_name_44">JC Taylor</string>
+    <string name="grave_name_45">Time Nice but Dim</string>
+    <string name="grave_name_46">Captain Sparrow</string>
+    <string name="grave_name_47">Kevin Dodd</string>
+    <string name="grave_name_48">Chris Knott</string>
+    <string name="grave_name_49">Bryn Davis</string>
+
+    <string name="grave_description_1">Died in a bloodstone fire</string>
+    <string name="grave_description_2">Got the finishing move</string>
+    <string name="grave_description_3">Buried together  in a little box</string>
+    <string name="grave_description_4">No longer with us</string>
+    <string name="grave_description_5">Died shouting his name</string>
+    <string name="grave_description_6">The Highwaymen’s Guild would like to thank this corpse for fully cooperating with his death</string>
+    <string name="grave_description_7">Ran herself into the ground</string>
+    <string name="grave_description_8">Saved the world. Couldn’t save himself</string>
+    <string name="grave_description_9">Populating the sky</string>
+    <string name="grave_description_10">99% dead</string>
+    <string name="grave_description_11">Easily pleased. Known ambivert</string>
+    <string name="grave_description_12">At least it didn’t hurt</string>
+    <string name="grave_description_13">Prafeshunal Ritor</string>
+    <string name="grave_description_14">Hit the acid blob. His mace corroded</string>
+    <string name="grave_description_15">A born survivor</string>
+    <string name="grave_description_16">Horrible bastard</string>
+    <string name="grave_description_17">No comment</string>
+    <string name="grave_description_18">Together forever</string>
+    <string name="grave_description_19">Albion’s groundsman</string>
+    <string name="grave_description_20">Picked a fight with his own reflection. Came off second best</string>
+    <string name="grave_description_21">They heard him coming</string>
+    <string name="grave_description_22">We never knew you’d gone</string>
+    <string name="grave_description_23">Went to get milk. The milk got him first</string>
+    <string name="grave_description_24">Beset by vicious hens. Too nice to kick them away</string>
+    <string name="grave_description_25">It came too soon</string>
+    <string name="grave_description_26">Never stood a chance</string>
+    <string name="grave_description_27">Nobody is riding you anymore</string>
+    <string name="grave_description_28">This too shall pass</string>
+    <string name="grave_description_29">Lived by a Dragon Stomper, died by a Dragon Stomper</string>
+    <string name="grave_description_30">“Don’t you know who I am?”</string>
+    <string name="grave_description_31">Came to a gooey end</string>
+    <string name="grave_description_32">Boxing. Goodbye Old friend</string>
+    <string name="grave_description_33">Split to the initiative</string>
+    <string name="grave_description_34">Died on the toilet</string>
+    <string name="grave_description_35">Should have thought that menu through</string>
+    <string name="grave_description_36">Autographs: Queue starts here</string>
+    <string name="grave_description_37">Too late</string>
+    <string name="grave_description_38">Patents Pending</string>
+    <string name="grave_description_39">Your novels suck</string>
+    <string name="grave_description_40">Kidnapped. Blackmailed. Never made it through the gate</string>
+    <string name="grave_description_41">We applaud him</string>
+    <string name="grave_description_42">Last words</string>
+    <string name="grave_description_43">Just kidding</string>
+    <string name="grave_description_44">Eaten alive by hamsters</string>
+    <string name="grave_description_45">Too dim for this world</string>
+    <string name="grave_description_46">Where did the rum go?</string>
+    <string name="grave_description_47">Lost a fight with an olive</string>
+    <string name="grave_description_48">Made into sausages</string>
+    <string name="grave_description_49">Finally allowed to rest after digging the other graves</string>
+
+    <string name="homes_name_1">Monster Manor</string>
+    <string name="homes_name_2">The Luminous Lodge</string>
+    <string name="homes_name_3">The Silk Moon</string>
+    <string name="homes_name_4">The House of Plenty</string>
+    <string name="homes_name_5">Mendicant’s Repose</string>
+    <string name="homes_name_6">Scum House</string>
+    <string name="homes_name_7">Plimpington Manor</string>
+    <string name="homes_name_8">The Nice House</string>
+    <string name="homes_name_9">Vestry Manor</string>
+    <string name="homes_name_10">Miracle Manor</string>
+    <string name="homes_name_11">The House of the Ghostly Puffin</string>
+    <string name="homes_name_12">Wraithlodge</string>
+    <string name="homes_name_13">The Final Lap House</string>
+    <string name="homes_name_14">The Ogre’s Palace</string>
+    <string name="homes_name_15">The Beating Heart</string>
+
+    <string name="homes_address_1">1 Market Square</string>
+    <string name="homes_address_2">2 Market Square</string>
+    <string name="homes_address_3">3 Market Square</string>
+    <string name="homes_address_4">1 Slum Street</string>
+    <string name="homes_address_5">2 Slum Street</string>
+    <string name="homes_address_6">3 Slum Street</string>
+    <string name="homes_address_7">1 Posh Street</string>
+    <string name="homes_address_8">2 Posh Street</string>
+    <string name="homes_address_9">3 Posh Street</string>
+    <string name="homes_address_10">4 Posh Street</string>
+    <string name="homes_address_11">5 Posh Street</string>
+    <string name="homes_address_12">1 Middle Street</string>
+    <string name="homes_address_13">2 Middle Street</string>
+    <string name="homes_address_14">3 Middle Street</string>
+    <string name="homes_address_15">5 Middle Street</string>
+
+    <string name="homes_description_1">The name of this house is the result of a popular, and rather
+        cruel, children\'s rhyme, which likened its occupant with a hideous creature. The object of
+        their ridicule was an ex-solider whose face bore the map of many battlefields, and who
+        earned a living as a guard. The years he walked a beat of Bowerstone were among the safest
+        the town has ever known, but his repulsive appearance meant he never got the recognition he
+        deserved.</string>
+    <string name="homes_description_2">This was, for a short while, the home of Albert the Luminous,
+        the man who would eventually find the Temple of Light. His stay in Bowerstone coincided with
+        a very dark period of Albert\'s life, one which led him to the brink of despair. When he
+        left on a pilgrimage, few thought that he would become the famous man that he did</string>
+    <string name="homes_description_3">This was not only the house of one of the finest seamstresses
+        in Albion, it is also the place where she created many of her most beautiful fashion
+        designs. There is still an air of stylishness permeating the very walls</string>
+    <string name="homes_description_4">Once the home of Alberta Givings, a woman of such generosity
+        she could not help sharing whatever she had with those less fortunate than her. Food, gold
+        and lodging could always be found here, but Alberta herself was so pure, not even the lowest
+        scum in Bowerstone could bring themselves to take advantage of her, meaning that only the
+        truly benefited from her kindness</string>
+    <string name="homes_description_5">Alfred the Beggar may have been extremely poor, but as such a
+        kind man he could always be counted on to do the right thing. Whenever there was a dispute,
+        the law was called upon to resolve it, but it was Albert who would always know the fairest
+        way to deal with any problem</string>
+    <string name="homes_description_6">Once the home of one Johnny Scum,whose grotesque appearance
+        drove people to conjecture that he must be the result of the union between a Hobbe and a
+        Troll. Though not particularly evil, Johnny\'s corpulence inevitably led him to a life of
+        crime, working as a heavy for many of Bowerstone\'s most important crime bosses</string>
+    <string name="homes_description_7">Once owned by the Plimpington family, who counted amongst its
+        members three of the most charming and good-looking people in Albion. Though the parents
+        weren\'t much to look at, their son and two daughters turned heads wherever they went</string>
+    <string name="homes_description_8">This was once the home of Lavender Nice, a woman as famous
+        for her kindness as for her astounding beauty. Despite having hundreds of suitors, she was
+        far too pure to marry. When she disappeared, still young enough to retain her looks, it was
+        said that she had ascended to a higher plane of existence</string>
+    <string name="homes_description_9">The residents of this wonderful house never seem to stay away
+        very long but have traditionally been people of great importance and fame. Artists,
+        adventurers and the very highest nobles have all called this place their home at one time or
+        another</string>
+    <string name="homes_description_10">The day alchemist Leo Head bought this house, the people of
+        Bowerstone rejoiced, for they knew the renowned alchemist\'s inventions would benefit them
+        all. Here he experimented with the potions that eventually led him to be wealthy enough to
+        build what is known as Castle Fairfax</string>
+    <string name="homes_description_11">Locals believe this house to be haunted by the spirit of a
+        long-dead puffin. Rather than frightening its residents with nightmares however, the puffin
+        is said to bring extremely peaceful and restful dreams</string>
+    <string name="homes_description_12">This house is tainted by the many evil people who have lived
+        here and has become famous for its association with dark deeds</string>
+    <string name="homes_description_13">Better known for being the home of Brent Lightning, the
+        fastest man ever to race through the roads of Albion. It is said he once threw a coin in the
+        air here, did two laps of Bowerstone, and returned in time to catch it</string>
+    <string name="homes_description_14">Once owned by Alan Mush, voted Ugliest Man in Albion, six
+        years in a row. This house not only became to be known as The Ogre\'s Palace not just because
+        of Alan's unusual facial features, but his enormous physique</string>
+    <string name="homes_description_15">Jeff Lightning, whose brother and Albion speed record holder
+        Brent lived on the same street, owned this house until his death. Though he possessed
+        velocity comparable to Brent, Jeff suffered from a weak heart. Whenever he tried to match
+        his brother in races, his irregular heartbeat took away a little bit more of his life until
+        one day, there was no more left to take</string>
+
+    <string name="market_name_1">Potion in Motion</string>
+    <string name="market_name_2">Fiction Burns</string>
+    <string name="market_name_3">The Cow and Corset</string>
+    <string name="market_name_4">Bowerstone Jewellery Stall</string>
+    <string name="market_name_5">Up in Arms</string>
+    <string name="market_name_6">World of Chairs</string>
+    <string name="market_name_7">Bowerstone Fruit \u0026 Veg Stall</string>
+    <string name="market_name_8">Bowerstone Pie Stall</string>
+    <string name="market_name_9">Bower Stones</string>
+    <string name="market_name_10">Bit of Skirt</string>
+    <string name="market_name_11">The Beautification Factory</string>
+    <string name="market_name_12">Pants!</string>
+    <string name="market_name_13">Bowerstone Drinks Stall</string>
+    <string name="market_name_14">Bowerstone Meat Stall</string>
+    <string name="market_name_15">Bowerstone Fish Stall</string>
+    <string name="market_name_16">Bowerstone’s Big Pile of Stuff</string>
+    <string name="market_name_17">Bowerstone Coach House</string>
+    <string name="market_name_18">Murgo’s Caravan</string>
+
+    <string name="market_address_1">1 Market Square</string>
+    <string name="market_address_2">3 Market Square</string>
+    <string name="market_address_3">5 Market Square</string>
+    <string name="market_address_4">5b Market Square</string>
+    <string name="market_address_5">6 Market Square</string>
+    <string name="market_address_6">7 Market Square</string>
+    <string name="market_address_7">7b Market Square</string>
+    <string name="market_address_8">7c Market Square</string>
+    <string name="market_address_9">4 Side Street</string>
+    <string name="market_address_10">1 Sovereign Road</string>
+    <string name="market_address_11">2 Sovereign Road</string>
+    <string name="market_address_12">1 Old Town Street</string>
+    <string name="market_address_13">1 Bowerstone Bridge</string>
+    <string name="market_address_14">2 Bowerstone Bridge</string>
+    <string name="market_address_15">3 Bowerstone Bridge</string>
+    <string name="market_address_16">1 Bowerstone Entrance</string>
+    <string name="market_address_17">2 Bowerstone Entrance</string>
+    <string name="market_address_18">Bowerstone Docks</string>
+
+    <string name="market_description_1">All your favourite potions, for all your least favourite
+        injuries</string>
+    <string name="market_description_2">Improve your mind, your soul and the owner’s pockets.
+        Buy a book!</string>
+    <string name="market_description_3">There is no better place to get absolutely hammered</string>
+    <string name="market_description_4">All kinds of gems are available here</string>
+    <string name="market_description_5">All kinds of weapons are forged and sold here</string>
+    <string name="market_description_6">A wonderful selection of chairs, tables, wardrobes, chairs,
+        and more chairs are sold here</string>
+    <string name="market_description_7">Shop here for some healthy living. Your arteries and your
+        bowels will thank you</string>
+    <string name="market_description_8">Sometimes, nothing will quite satisfy like a pie</string>
+    <string name="market_description_9">The gems crafted in this store are said to convey magical
+        properties</string>
+    <string name="market_description_10">All the latest ladies’ fashions can be found here</string>
+    <string name="market_description_11">All the styles you could possibly want are available here</string>
+    <string name="market_description_12">Bowerstone’s finest men’s clothing store</string>
+    <string name="market_description_13">A great place to buy some refreshments</string>
+    <string name="market_description_14">Not the place to go if you’re a vegetarian</string>
+    <string name="market_description_15">Don’t worry, the fish sold here weren’t caught in the local
+        river</string>
+    <string name="market_description_16">Purveyor of generic items for hundreds of years</string>
+    <string name="market_description_17">Feet feeling sore? These coaches will take you where you
+        need to go</string>
+    <string name="market_description_18">Mystic Murgo’s shop is a treasure trove of priceless
+        wonders and worthless trinkets</string>
+
+    <string name="landmark_name_1">Bower Lake</string>
+    <string name="landmark_name_2">Bower Bridge</string>
+    <string name="landmark_name_3">Castle Fairfax</string>
+    <string name="landmark_name_4">Clock Tower</string>
+    <string name="landmark_name_5">Bowerstone Market</string>
+    <string name="landmark_name_6">Mystical Murgo</string>
+    <string name="landmark_name_7">Pig Knight</string>
+    <string name="landmark_name_8">Knothole Island</string>
+
+    <string name="landmark_description_1">Rumoured to be the location of the old Heroes Guild, Bower
+        Lake is a popular destination for travellers and locals. Located in the middle of Mirfield,
+        Bower Lake is only a short walk away from the Gypsy Camp and is hard to miss on your way to
+        Bowerstone</string>
+    <string name="landmark_description_2">Separating the town entrance and popular marketplace, Bower
+        Bridge has become the go to place for social gatherings and traders looking to sell to
+        travellers. There are rumours that Bower Bridge is somehow related to the legendary Gargoyle
+        Trove</string>
+    <string name="landmark_description_3">Built on top of the former Bowerstone Manor, Castle
+        Fairfax is easily the most spectacular of all Bowerstone landmarks. Civilians are free to
+        roam the stunning gardens surrounding the castle, where you are likely to find locals
+        selling the highest standard products. Although owned by the Fairfax family for generations,
+        a transgender Elton John lookalike has recently been seen sitting upon the throne</string>
+    <string name="landmark_description_4">At the heart of Bowerstone markets sits the clock tower.
+        It is the popular meeting point for shoppers, dates, and even the occasional orgy. The town
+        crier can often be seen staring at the clock face waiting to declare the time to the
+        Square</string>
+    <string name="landmark_description_5">This is the place you go to if you need anything. Well not
+        anything, if you need to purchase something that is likely to be found in a bustling market
+        town then this is the place to be. If not, buy something anyway and support our
+        economy</string>
+    <string name="landmark_description_6">No one knows where he came from, but the common assumption
+        is that no mortal man could offer such wonderful products at such reasonable prices. Each
+        purchase comes with the guarantee that it will change your life forever.  No refunds</string>
+    <string name="landmark_description_7">Nothing is known about the origin of this statue, so I
+        will have to make it up. The statue shows Sir Randy riding his trusty stead ‘Oinky’ into
+        battle during the Great Bacon War. Show your respect to the statue by getting down on your
+        knees and squealing like a pig. Locals may try to avoid you at this point, but it is just
+        part of the tradition</string>
+    <string name="landmark_description_8">If Bowerstone is not the place for you, we recommend
+        taking your business elsewhere. Look for Gordon along the docks and ask him nicely to be
+        taken to Knothole Island in his submarine</string>
+
+</resources>
