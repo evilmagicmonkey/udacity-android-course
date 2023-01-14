@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="app_name">Inventory App</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Inventory</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="category_product_details">Product Details</string>
+    <string name="category_supplier_details">Supplier Details</string>
+
+    <string name="hint_product_name">Product name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="hint_supplier_name">Suppler name</string>
+    <string name="hint_supplier_phone_number">Phone number</string>
+
+    <string name="quantity_one">1</string>
+    <string name="quantity_two">2</string>
+    <string name="quantity_three">3</string>
+    <string name="quantity_four">4</string>
+    <string name="quantity_five">5</string>
+
+    <string name="editor_insert_inventory_successful">Product saved</string>
+    <string name="editor_update_inventory_successful">Product updated</string>
+
+    <string name="empty_view_title_text">It\'s a bit empty in here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+
+    <string name="quantity_indication">Quantity:</string>
+    <string name="price_indication">£</string>
+
+    <string name="editor_activity_title_edit_inventory">Edit Product</string>
+    <string name="editor_activity_title_add_inventory">Add a Product</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="call_button">Contact Supplier</string>
+    <string name="sell_button">Sell</string>
+
+    <string name="area_code">+44</string>
+
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+    <string name="delete_product_dialog_msg">Delete this product?</string>
+    <string name="delete_all_dialog_msg">Are you sure you want to delete all products?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all_products_toast">Successfully deleted all products</string>
+
+    <string name="quantity_increment">+</string>
+    <string name="quantity_decrement">-</string>
+    <string name="starting_quantity">1</string>
+
+    <string name="out_of_stock">Out of stock</string>
+
+    <string name="quantity_decrement_warning">Quantity cannot be any lower</string>
+    <string name="quantity_increment_warning">Quantity cannot be any higher</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="product_name_required">Product name required</string>
+    <string name="supplier_name_required">Supplier name required</string>
+    <string name="price_required">Price required</string>
+    <string name="phone_number_required">Phone number required</string>
+    <string name="insert_details_toast">Insert product details before saving</string>
+
+
+</resources>
