@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <TextView
+        android:id="@+id/headline_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="A boat is a boat but the mystery box could be anything.  It could even be a boat"
+        android:padding="8dp"
+        android:textSize="18sp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/headline_text_view">
+
+        <TextView
+            android:id="@+id/author_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Peter Griffin"
+            android:padding="8dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/category_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Weather"
+            android:padding="8dp"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/date_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/headline_text_view"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:id="@+id/date_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="July 18th 2018"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:textAlignment="textEnd"/>
+
+        <TextView
+            android:id="@+id/time_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="4:20"
+            android:padding="8dp"
+            android:textSize="18sp"
+            android:textAlignment="textEnd"/>
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_below="@id/date_layout"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="8dp"/>
+
+
+</RelativeLayout>
