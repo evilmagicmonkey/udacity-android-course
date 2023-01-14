@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/rock"
+        android:background="#395832"
+        android:text="Rock"
+        />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/pop"
+        android:background="#395832"
+        android:text="Pop"
+        />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/classical"
+        android:background="#395832"
+        android:text="Classical"
+        />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:id="@+id/novelty"
+        android:background="#395832"
+        android:text="Novelty"
+        />
+
+
+
+</LinearLayout>
