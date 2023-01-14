@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7E57C2"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Who is Mickey Mouse’s arch-nemesis?" />
+
+        <RadioGroup
+            android:id="@+id/question_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/one_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Steve" />
+
+            <RadioButton
+                android:id="@+id/one_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pete" />
+
+            <RadioButton
+                android:id="@+id/one_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dave" />
+
+            <RadioButton
+                android:id="@+id/one_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Scrooge McDuck" />
+
+        </RadioGroup>
+
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="What is the name of Captain Hook's ship?" />
+
+        <RadioGroup
+            android:id="@+id/question_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/two_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Going Merry" />
+
+            <RadioButton
+                android:id="@+id/two_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Merry Mariner" />
+
+            <RadioButton
+                android:id="@+id/two_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Windy Sailor" />
+
+            <RadioButton
+                android:id="@+id/two_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Jolly Roger" />
+
+        </RadioGroup>
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="Who is likely to have you beheaded if you do not follow their rules?" />
+
+        <RadioGroup
+            android:id="@+id/question_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/three_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Queen of Hearts" />
+
+            <RadioButton
+                android:id="@+id/three_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Queen of Diamonds" />
+
+            <RadioButton
+                android:id="@+id/three_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Queen of Spades" />
+
+            <RadioButton
+                android:id="@+id/three_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Queen of Clubs" />
+
+        </RadioGroup>
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="What did Cruella De Vil want to do with the Dalmatian puppies?" />
+
+        <RadioGroup
+            android:id="@+id/question_four"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/four_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Train a puppy army" />
+
+            <RadioButton
+                android:id="@+id/four_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Take them for a walk" />
+
+            <RadioButton
+                android:id="@+id/four_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sell them to Scrooge McDuck" />
+
+            <RadioButton
+                android:id="@+id/four_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Use their fur to make a coat" />
+
+        </RadioGroup>
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="What did Ursula take from Ariel?" />
+
+        <RadioGroup
+            android:id="@+id/question_five"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/five_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Her sight" />
+
+            <RadioButton
+                android:id="@+id/five_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Her voice" />
+
+            <RadioButton
+                android:id="@+id/five_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Her thingamabobs" />
+
+            <RadioButton
+                android:id="@+id/five_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sebastian" />
+
+        </RadioGroup>
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:text="Who did Oogie Boogie kidnap in The Nightmare Before Christmas?" />
+
+        <RadioGroup
+            android:id="@+id/question_six"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/six_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Santa Clause" />
+
+            <RadioButton
+                android:id="@+id/six_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Easter Bunny" />
+
+            <RadioButton
+                android:id="@+id/six_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jack Skellington" />
+
+            <RadioButton
+                android:id="@+id/six_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Holiday Armadillo" />
+
+        </RadioGroup>
+
+        <TextView
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:text="What was Jafar's final wish in Aladdin?" />
+
+        <RadioGroup
+            android:id="@+id/question_seven"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/seven_wrong_first"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Treasure" />
+
+            <RadioButton
+                android:id="@+id/seven_right"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Become a genie" />
+
+            <RadioButton
+                android:id="@+id/seven_wrong_second"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Become the Sultan" />
+
+            <RadioButton
+                android:id="@+id/seven_wrong_third"
+                style="@style/green_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Three more wishes" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/question_eight"
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="Which 2 of the following are Hades' minions?" />
+
+        <CheckBox
+            android:id="@+id/flotsam"
+            style="@style/green_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flotsam" />
+
+        <CheckBox
+            android:id="@+id/panic"
+            style="@style/green_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Panic" />
+
+        <CheckBox
+            android:id="@+id/lefou"
+            style="@style/green_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LeFou" />
+
+        <CheckBox
+            android:id="@+id/iago"
+            style="@style/green_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Iago" />
+
+        <CheckBox
+            android:id="@+id/pain"
+            style="@style/green_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pain" />
+
+        <CheckBox
+            android:id="@+id/jetsam"
+            style="@style/green_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jetsam" />
+
+        <TextView
+            android:id="@+id/question_nine"
+            style="@style/green_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="What is the name of the lion that betrays Mufasa and becomes King of Pride Rock?" />
+
+        <EditText
+            android:id="@+id/nineAnswer"
+            style="@style/green_style"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp" />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="32dp"
+            android:onClick="submitScore"
+            android:text="see results"
+            android:textAlignment="center" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="32dp"
+            android:onClick="reset"
+            android:text="try again"
+            android:textAlignment="center" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
