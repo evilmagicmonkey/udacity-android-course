@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taylor\'s Butchers</string>
+    <string name="hot_cold">Hot \u0026 Cold Food</string>
+    <string name="pies">Pies, pasties \u0026 sausage rolls</string>
+    <string name="cooked_meat">Cooked ham, turkey, beef \u0026 pork</string>
+    <string name="facebook">\u0040ackworthwakefieldroad</string>
+    <string name="sausages">Homemade sausages \u0026 burgers</string>
+    <string name="bacon">Traditional cured \u0026 smoked bacon</string>
+</resources>
