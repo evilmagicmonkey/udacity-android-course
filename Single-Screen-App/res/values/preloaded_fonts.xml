@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/love_ya_like_a_sister</item>
+        <item>@font/neuton</item>
+        <item>@font/neuton_bold</item>
+        <item>@font/old_standard_tt</item>
+        <item>@font/stardos_stencil_bold</item>
+    </array>
+</resources>
